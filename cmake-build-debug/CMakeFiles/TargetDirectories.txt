@@ -1,0 +1,3 @@
+C:/university/Nure/third_year/2/TPR/tpr/cmake-build-debug/CMakeFiles/tpr.dir
+C:/university/Nure/third_year/2/TPR/tpr/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/university/Nure/third_year/2/TPR/tpr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
